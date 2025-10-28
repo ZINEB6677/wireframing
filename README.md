@@ -15,4 +15,43 @@ Where text, images, and media are positioned. Guides user attention to important
 ## Functionality
 Interactive elements like buttons, forms, and links. Shows how users will interact with the interface.
 
-**Together**, these elements create a clear blueprint for building intuitive and effective user experiences.
+# Types of Wireframes
+
+## Low-Fidelity Wireframes
+**What they are**: Basic sketches focusing on structure and layout.
+
+**Characteristics**:
+- Simple shapes and placeholders
+- Quick to create
+- No colors or detailed styling
+
+**When to use**:
+- Early brainstorming
+- Initial concept discussions
+
+## High-Fidelity Wireframes  
+**What they are**: Detailed designs with precise layout and content.
+
+**Characteristics**:
+- Real content and text
+- Accurate spacing
+- Basic typography
+
+**When to use**:
+- Later design stages
+- Developer handoff
+- User testing
+
+---
+
+# Wireframe Type Analysis
+
+Based on the provided Figma link, this is a **High-Fidelity Wireframe**.
+
+**Key indicators**:
+- Detailed component structure
+- Precise layout and spacing
+- Realistic content placement
+- Complex UI elements
+
+**Purpose**: This level of detail is typically used for finalizing the user interface before moving to visual design and development.

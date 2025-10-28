@@ -55,3 +55,22 @@ Based on the provided Figma link, this is a **High-Fidelity Wireframe**.
 - Complex UI elements
 
 **Purpose**: This level of detail is typically used for finalizing the user interface before moving to visual design and development.
+
+# Wireframing Tools
+
+## Popular Options
+
+### Figma (Recommended)
+**Why it's great for wireframing:**
+- Cloud-based with real-time collaboration
+- Free to start with essential features
+- Components for reusable elements
+- Easy sharing and feedback
+- Smooth transition to high-fidelity design
+
+### Other Tools
+- **Balsamiq**: Fast low-fidelity sketches
+- **Adobe XD**: Good for Adobe users
+- **Sketch**: Mac-based with great plugins
+
+**Figma is our top choice** because it's accessible, collaborative, and perfect for teams of all sizes.
